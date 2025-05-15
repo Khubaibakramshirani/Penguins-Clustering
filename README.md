@@ -96,10 +96,3 @@ This project is open source under the MIT License.
 
 ```
 
----
-
-Let me know if you want to:
-- Add a sample output image
-- Include badges (e.g., Binder, License)
-- Turn it into a web app with Streamlit
-```
