@@ -1,15 +1,7 @@
-# Penguins-Clustering
-
-Here’s a clean and informative `README.md` file for your **Penguin Clustering** GitHub repository:
-
----
-
-```markdown
 # 🐧 Penguin Clustering with K-Means
 
 This project performs **unsupervised clustering** on the [Palmer Penguins dataset](https://allisonhorst.github.io/palmerpenguins/) using **K-Means** and **Principal Component Analysis (PCA)**. The goal is to discover natural groupings of penguin species based on physical characteristics.
 
----
 
 ## 📁 Project Structure
 
@@ -22,8 +14,6 @@ penguins-clustering/
 └── .gitignore                # Git ignored files (optional)
 
 ````
-
----
 
 ## 📊 Dataset Description
 
